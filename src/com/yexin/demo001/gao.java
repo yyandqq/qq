@@ -11,6 +11,9 @@ public class gao {
 	private void D() {
 		System.out.println("D方法");
 	}
+	private void F() {
+		System.out.println("F方法");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
