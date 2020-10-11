@@ -39,6 +39,7 @@ public class gao {
 			System.out.println("研研是个小仙女");
 			System.out.println("憨憨是个大傻子");
 			System.out.println("憨憨是个大傻子2");
+			System.out.println("憨憨是个大傻子3");
 	}
 
 }
