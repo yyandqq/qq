@@ -9,6 +9,7 @@ public class gao {
 			System.out.println("gaohuiqishigeshabiqqqqq444");
 			System.err.println("gaohuiqiershazi ");
 			System.out.println("神经");
+			System.out.println("不爱憨憨");
 	}
 
 }
