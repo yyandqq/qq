@@ -7,6 +7,7 @@ public class gao {
 			System.out.println();
 			System.out.println();
 			System.out.println("gaohuiqishigeshabiqqqqq444");
+			System.err.println("gaohuiqiershazi ");
 	}
 
 }
