@@ -6,7 +6,7 @@ public class gao {
 		// TODO Auto-generated method stub
 			System.out.println();
 			System.out.println();
-			System.out.println("gaohuiqishigeshabi");
+			System.out.println("gaohuiqishigeshabiqqqqq");
 	}
 
 }
