@@ -2,6 +2,10 @@ package com.yexin.demo001;
 
 public class gao {
 
+	private void A() {
+		System.out.println("A方法");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
