@@ -1,6 +1,10 @@
 package com.yexin.demo001;
 
 public class gao {
+	
+	private void B() {
+		System.out.println("方法B");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
