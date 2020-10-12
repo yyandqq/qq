@@ -27,6 +27,10 @@ public class gao {
 		System.out.println("G方法");
 	}
 	
+	private void I() {
+		System.out.println("I方法");
+	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
