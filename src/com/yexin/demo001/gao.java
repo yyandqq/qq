@@ -27,6 +27,10 @@ public class gao {
 		System.out.println("G方法");
 	}
 	
+	private void o() {
+		System.out.println("o方法");
+	}
+	
 	private void I() {
 		System.out.println("I方法");
 		System.out.println("tian");
