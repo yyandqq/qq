@@ -5,7 +5,11 @@ public class gao {
 	private void AA(){
 	System.out.print("AA方法");
 	}
-
+	
+	private void AB(){
+	System.out.print("AB方法");
+	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
