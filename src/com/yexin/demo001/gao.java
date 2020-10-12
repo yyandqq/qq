@@ -38,6 +38,10 @@ public class gao {
 		System.out.println("tian");
 		System.out.println("tian2");
 	}
+	private void P() {
+		System.out.println("P方法");
+
+	}
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
