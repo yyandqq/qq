@@ -2,18 +2,11 @@ package com.yexin.demo001;
 
 public class gao {
 	
-	private void B() {
-		System.out.println("Sts  B方法");
-	}
+	
 	private void A(){
 	System.out.print("githubA方法");
 	}
-	private void C(){
-	System.out.print("githubC方法");C
-	}
-	private void D() {
-		System.out.println("Sts  D方法");
-	}
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
