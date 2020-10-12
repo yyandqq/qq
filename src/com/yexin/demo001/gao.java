@@ -12,6 +12,7 @@ public class gao {
 	
 	private void SS(){
 	System.out.print("SS方法");
+		System.out.print("SSDD方法");
 	}
 	
 
