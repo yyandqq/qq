@@ -8,7 +8,9 @@ public class gao {
 	System.out.print("githubA方法");
 	}
 	
-
+	private void B(){
+	System.out.print("githubB方法");
+	}
 
 
 	public static void main(String[] args) {
