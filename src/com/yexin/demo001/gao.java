@@ -4,6 +4,7 @@ public class gao {
 	
 	private void AA(){
 	System.out.print("AA方法");
+		System.out.print("CC");
 	}
 	
 
