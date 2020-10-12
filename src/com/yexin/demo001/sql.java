@@ -4,6 +4,7 @@ public class sql {
 	
 	private void BB(){
 		System.out.print("BBbbbbbb方法");
+		System.out.print("BBbbbbbb方法");
 		}
 	private void B(){
 		System.out.print("BB22222222222222222222方法");
