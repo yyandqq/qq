@@ -9,6 +9,9 @@ public class sql {
 		System.out.print("zhangshasha");
 		System.out.print("gaolaji");
 		}
+	private void B(){
+		System.out.print("BB方法");
+		}
 
 
 	public static void main(String[] args) {
