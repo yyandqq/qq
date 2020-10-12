@@ -14,11 +14,7 @@ public class sql {
 	private void FF(){
 		System.out.print("FF·½·¨");
 		System.out.print("5555555");
-<<<<<<< HEAD
-		System.out.print("77777");
 
-=======
->>>>>>> branch 'master' of https://github.com/yyandqq/qq.git
 		}
 
 	public static void main(String[] args) {
