@@ -5,6 +5,9 @@ public class gao {
 	private void B() {
 		System.out.println("Sts  B方法");
 	}
+	private void A(){
+	System.out.print("githubA方法");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
