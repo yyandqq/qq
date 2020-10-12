@@ -9,6 +9,11 @@ public class sql {
 	private void WWW(){
 		System.out.print("WWW方法");
 		}
+	
+	
+	private void FF(){
+		System.out.print("FF方法");
+		}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
