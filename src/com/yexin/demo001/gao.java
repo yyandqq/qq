@@ -11,6 +11,9 @@ public class gao {
 	private void B(){
 	System.out.print("githubB方法");
 	}
+	private void C(){
+	System.out.print("githubC方法");
+	}
 
 
 	public static void main(String[] args) {
