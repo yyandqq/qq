@@ -3,11 +3,7 @@ package com.yexin.demo001;
 public class sql {
 	
 	private void BB(){
-		System.out.print("BB方法");
-		System.out.print("TT方法");
-		System.out.print("UU方法");
-		System.out.print("zhangshasha");
-		System.out.print("gaolaji");
+		System.out.print("BBbbbbbb方法");
 		}
 	private void B(){
 		System.out.print("BB方法");
