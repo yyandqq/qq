@@ -12,6 +12,7 @@ public class sql {
 		System.out.print("BB22222222222222222222方法");
 		System.out.print("BBbbbbbb方法");	
 		System.out.print("BBbbbbbb33333方法");
+		System.out.print("BBbbbbbb33333方法");
 	}
 	
 
