@@ -8,7 +8,9 @@ public class gao {
 	private void A(){
 	System.out.print("githubA方法");
 	}
-
+	private void C(){
+	System.out.print("githubC方法");C
+	}
 	private void D() {
 		System.out.println("Sts  D方法");
 	}
