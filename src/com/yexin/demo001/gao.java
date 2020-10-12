@@ -9,6 +9,9 @@ public class gao {
 	System.out.print("githubA方法");
 	}
 
+	private void D() {
+		System.out.println("Sts  D方法");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
