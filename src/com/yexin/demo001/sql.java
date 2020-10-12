@@ -7,6 +7,7 @@ public class sql {
 		System.out.print("TT方法");
 		System.out.print("UU方法");
 		System.out.print("zhangshasha");
+		System.out.print("gaolaji");
 		}
 
 
