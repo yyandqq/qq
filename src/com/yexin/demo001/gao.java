@@ -10,6 +10,10 @@ public class gao {
 	System.out.print("AB方法");
 	}
 	
+	private void SS(){
+	System.out.print("SS方法");
+	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
