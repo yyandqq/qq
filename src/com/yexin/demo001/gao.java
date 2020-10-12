@@ -9,6 +9,9 @@ public class gao {
 	private void C() {
 		System.out.println("C方法");
 	}
+	private void B() {
+		System.out.println("B方法");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
