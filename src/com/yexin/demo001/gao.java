@@ -8,7 +8,9 @@ public class gao {
 	private void A(){
 	System.out.print("githubA方法");
 	}
-
+	private void C(){
+	System.out.print("githubC方法");C
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			System.out.println();
