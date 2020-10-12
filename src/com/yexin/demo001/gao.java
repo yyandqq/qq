@@ -9,6 +9,7 @@ public class gao {
 	private void AB(){
 	System.out.print("AB方法");
 	System.out.print("QQ方法");
+		System.out.print("YY方法");
 	}
 	
 	private void SS(){
