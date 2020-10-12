@@ -30,7 +30,9 @@ public class gao {
 	private void o() {
 		System.out.println("o方法");
 	}
-	
+	private void K() {
+		System.out.println("K方法");
+	}
 	private void I() {
 		System.out.println("I方法");
 		System.out.println("tian");
