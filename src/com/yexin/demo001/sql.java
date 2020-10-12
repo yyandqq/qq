@@ -9,6 +9,7 @@ public class sql {
 	private void WWW(){
 		System.out.print("WWW方法");
 		System.out.print("4444方法");
+		System.out.print("8888方法");
 		}
 	
 	

@@ -4,6 +4,8 @@ public class gao {
 	
 	private void AA(){
 	System.out.print("AA方法");
+	System.out.println("在sts中添加");
+		System.out.print("在github上添加");
 	}
 	
 	private void AB(){
