@@ -5,6 +5,7 @@ public class gao {
 	private void AA(){
 	System.out.print("SS方法");
 		System.out.print("mm方法");
+		System.out.print("ZZ方法");
 
 	}
 	
