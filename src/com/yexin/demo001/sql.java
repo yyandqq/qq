@@ -10,7 +10,7 @@ public class sql {
 		System.out.print("gaolaji");
 		}
 	private void B(){
-		System.out.print("BB方法");
+		System.out.print("BB22222222222222222222方法");
 		}
 
 
