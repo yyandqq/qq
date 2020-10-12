@@ -5,6 +5,7 @@ public class sql {
 	private void BB(){
 		System.out.print("BB方法");
 		System.out.print("TT方法");
+		System.out.print("UU方法");
 		}
 
 
