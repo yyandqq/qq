@@ -29,6 +29,7 @@ public class gao {
 	
 	private void I() {
 		System.out.println("I方法");
+		System.out.println("tian");
 	}
 	
 	public static void main(String[] args) {
