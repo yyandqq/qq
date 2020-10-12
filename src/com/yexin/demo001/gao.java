@@ -3,14 +3,6 @@ package com.yexin.demo001;
 public class gao {
 	
 
-	
-	private void A(){
-	System.out.print("githubA方法");
-	}
-	
-	private void B(){
-	System.out.print("githubB方法");
-	}
 
 
 	public static void main(String[] args) {
