@@ -3,16 +3,19 @@ package com.yexin.demo001;
 public class sql {
 	
 	private void BB(){
-		System.out.print("BB方法");
+		System.out.print("BB路陆路篓");
 		}
 	
 	private void WWW(){
-		System.out.print("WWW方法");
+		System.out.print("WWW路陆路篓");
 		}
 	
 	
 	private void FF(){
-		System.out.print("FF方法");
+		System.out.print("FF路陆路篓");
+		System.out.print("5555555");
+		System.out.print("77777");
+
 		}
 
 	public static void main(String[] args) {
