@@ -6,6 +6,7 @@ public class sql {
 
 		}
 	private void B(){
+System.out.println("22222");
 
 	}
 	
