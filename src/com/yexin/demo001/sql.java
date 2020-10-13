@@ -14,6 +14,7 @@ public class sql {
 		System.out.print("BBbbbbbb方法");	
 		System.out.print("BBbbbbbb33333方法");
 		System.out.print("BBbbbbbb33333方法");
+		System.out.print("BBbbbbbb33333方法");
 	}
 	
 
