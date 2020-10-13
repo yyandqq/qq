@@ -3,7 +3,7 @@ package com.yexin.demo001;
 public class sql {
 	
 	private void A(){
-	System.out.println("添加A方法");
+
 		}
 	private void B(){
 
