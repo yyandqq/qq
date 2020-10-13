@@ -6,7 +6,7 @@ public class sql {
 System.out.println("添加A方法");
 		}
 	private void B(){
-
+		System.out.println("添加B方法");
 
 	}
 	
