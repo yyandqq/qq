@@ -8,6 +8,7 @@ public class sql {
 		System.out.print("BBbbbbbb1111方法");
 		System.out.print("BBbbbbbb999方法");
 		System.out.println("更改BB方法");
+		System.out.println("我比莎莎来的早");
 		}
 	private void B(){
 		System.out.print("BB22222222222222222222方法");
