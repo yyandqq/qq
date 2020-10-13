@@ -3,10 +3,10 @@ package com.yexin.demo001;
 public class sql {
 	
 	private void A(){
-
+	
 		}
 	private void B(){
-System.out.println("22222");
+
 
 	}
 	
